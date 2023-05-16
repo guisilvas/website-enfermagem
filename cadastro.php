@@ -12,7 +12,8 @@
         echo "Agradecemos pelo seu contato!";
     }
     else {
-        echo "Erro" . mysqli_connect_error($conexao);
+        echo "Erro ao enviar mensagem.";
+        // echo "Erro" . mysqli_connect_error($conexao);
     }
     mysqli_close($conexao);
 ?>
