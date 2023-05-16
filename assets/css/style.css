@@ -2391,3 +2391,15 @@ section {
   height: 25px;
   width: 25px;
 }
+
+.row-blog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.subtitulo {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
