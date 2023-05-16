@@ -4,8 +4,8 @@
     $senha = "";
     $dbname = "enfermagem";
 
-    $conexao=mysqli_connect($nome, $email, $assunto, $mensagem, $dbname);
-    if(!$conexao) {
+    $conexao=mysqli_connect($servidor, $usuario, $senha, $dbname);
+    if(!$conexao){
         die("Houve um erro: " . mysqli_connect_error());
     }
 ?>
