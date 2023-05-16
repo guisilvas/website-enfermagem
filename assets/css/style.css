@@ -2386,3 +2386,8 @@ section {
   font-size: 13px;
   color: #012970;
 }
+
+.internet {
+  height: 25px;
+  width: 25px;
+}
