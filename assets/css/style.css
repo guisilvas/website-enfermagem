@@ -2278,6 +2278,10 @@ section {
   .footer .footer-top {
     background-position: center bottom;
   }
+
+  .footer .footer-top .container .row gy-4 {
+    justify-content: center;
+  }
 }
 
 .footer .footer-top .footer-info {
@@ -2334,7 +2338,7 @@ section {
 
 .footer .footer-top .footer-links {
   margin-bottom: 30px;
-  align-items: center;
+  align-items: stretch;
 }
 
 .footer .footer-top .footer-links ul {
