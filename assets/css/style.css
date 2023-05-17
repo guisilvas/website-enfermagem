@@ -2334,6 +2334,7 @@ section {
 
 .footer .footer-top .footer-links {
   margin-bottom: 30px;
+  align-items: center;
 }
 
 .footer .footer-top .footer-links ul {
@@ -2372,6 +2373,8 @@ section {
 
 .footer .footer-top .footer-contact p {
   line-height: 26px;
+  align-items: center;
+  justify-content: center;
 }
 
 .footer .copyright {
