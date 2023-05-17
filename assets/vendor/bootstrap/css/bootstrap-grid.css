@@ -324,11 +324,13 @@
 .g-4,
 .gx-4 {
   --bs-gutter-x: 1.5rem;
+  --justify-content: space-between;
 }
 
 .g-4,
 .gy-4 {
   --bs-gutter-y: 1.5rem;
+  justify-content: space-between;
 }
 
 .g-5,
