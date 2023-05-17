@@ -2405,11 +2405,8 @@ section {
 }
 
 .poema {
-  font-size: 20px;
+  font-size: 15px;
   text-align: center;
   justify-content: center;
 }
 
-.texto-poema {
-  font-size: 25px;
-}
