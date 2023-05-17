@@ -1,7 +1,8 @@
 <?php
     include("conexao.php");
 
-    $nome= $_POST['nome'];
+    //Variáveis
+    $nome=$_POST['nome'];
     $email=$_POST['email'];
     $assunto=$_POST['assunto'];
     $mensagem=$_POST['mensagem'];
@@ -13,7 +14,7 @@
     }
     else {
         echo "Erro ao enviar mensagem.";
-        // echo "Erro" . mysqli_connect_error($conexao);
+        echo "Erro" . mysqli_connect_error($conexao);
     }
     mysqli_close($conexao);
 ?>
