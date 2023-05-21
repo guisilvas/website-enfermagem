@@ -9,6 +9,13 @@
 
 <br>
 
+## 🔗 Links
+- [Documentação](https://docs.google.com/document/d/1WuYvjAdWnVU9WSGyuHAWhajazxlNZiMKVlqbwtWjR6Q/edit?usp=sharing)
+- [Projeto](https://github.com/guisilvas/website-enfermagem)
+- [Endereço](https://enfermagemprozeducacao.000webhostapp.com/index.html)
+
+<br>
+
 ## 📄 Sobre
 
 Uma homenagem ao dia da Enfermagem, este site apresenta algumas propostas tanto aos estudantes/profissionais da área quanto aos pessoas que eventualmente receberão seu atendimento, trata-se de um site educativo e informacional sobre a profissão e como podemos e devemos nos portar diante dela.
@@ -51,8 +58,8 @@ Em homenagem ao dia da enfermagem a turma de Desenvolvimento de Sistemas DIV/DEV
     - [Anny Duarte](https://github.com/Muniz-DuarteAnny)
     - [Henrique Rios](https://github.com/hriquerios)
     - [Pablo Soares](https://github.com/PabloSoares1572)
-    - [Luzia]()
-    - [Bruno]()
+    - [Luzia Rodrigues]()
+    - [Bruno Santana]()
 
 <br>
 
