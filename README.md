@@ -21,6 +21,7 @@ Uma homenagem ao dia da Enfermagem, este site apresenta algumas propostas tanto 
 - [CSS](https://www.w3.org/TR/html/)
 - [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript/Guide)
 - [Bootstrap](https://getbootstrap.com/)
+- [PHP](https://www.php.net/)
 
 <br>
 
