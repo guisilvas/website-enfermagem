@@ -65,7 +65,7 @@ Em homenagem ao dia da enfermagem a turma de Desenvolvimento de Sistemas DIV/DEV
 
 - Desenvolvimento e Testes
     - [Breno Gomes](https://github.com/brngom3s)
-    - [Douglas](https://github.com/DOzinhaha)]
+    - [Douglas Lima](https://github.com/DOzinhaha)
     - [Guilherme Silva](https://github.com/guisilvas)
 
 <br>
