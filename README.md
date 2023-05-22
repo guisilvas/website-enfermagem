@@ -54,19 +54,19 @@ Em homenagem ao dia da enfermagem a turma de Desenvolvimento de Sistemas DIV/DEV
 <br>
 
 - Levantamento de Requisitos e Documentação
-    - [Gabriel Mendonça](https://github.com/Gabriel037)
     - [Anny Duarte](https://github.com/Muniz-DuarteAnny)
-    - [Henrique Rios](https://github.com/hriquerios)
-    - [Pablo Soares](https://github.com/PabloSoares1572)
-    - [Luzia Rodrigues]()
     - [Bruno Santana]()
+    - [Gabriel Mendonça](https://github.com/Gabriel037)
+    - [Henrique Rios](https://github.com/hriquerios)
+    - [Luzia Rodrigues]()
+    - [Pablo Soares](https://github.com/PabloSoares1572)
 
 <br>
 
 - Desenvolvimento e Testes
-    - [Guilherme Silva](https://github.com/guisilvas)
     - [Breno Gomes](https://github.com/brngom3s)
-    - [Douglas](https://github.com/DOzinhaha)
+    - [Douglas](https://github.com/DOzinhaha)]
+    - [Guilherme Silva](https://github.com/guisilvas)
 
 <br>
 
