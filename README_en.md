@@ -5,6 +5,9 @@
   <a href="README_en.md">
     <img src="https://img.shields.io/badge/Language-English-blue" alt="English">
   </a>
+  <a href="README_sp.md">
+    <img src="https://img.shields.io/badge/Language-Espa%C3%B1ol-orange" alt="Español">
+  </a>
 </div>
 
 <br>
@@ -63,7 +66,7 @@
 
 <br>
 
-<h2>Contribua</h2>
+<h2>Contribute</h2>
 
 ```bash
 # Clone the repository
@@ -79,7 +82,7 @@ git clone https://github.com/guisilvas/website-enfermagem.git
 <br>
 
 <ul>
-  <li>Professor: <a href="#">Felipe de Paula</a></li>
+  <li>Teacher: <a href="#">Felipe de Paula</a></li>
 </ul>
 
 <br>

@@ -5,6 +5,9 @@
   <a href="README_en.md">
     <img src="https://img.shields.io/badge/Language-English-blue" alt="English">
   </a>
+  <a href="README_sp.md">
+    <img src="https://img.shields.io/badge/Language-Espa%C3%B1ol-orange" alt="Español">
+  </a>
 </div>
 
 <br>
